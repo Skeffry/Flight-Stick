@@ -7,6 +7,7 @@ Step 1.
 First step is finding out how Flightsticks actually work, primarily computer based ones, although flight-sticks from inside planes could provide useful information.
  - Part 1
     - Watching Youtube videos and reading articles on the function of Flightsticks, as I watch them I'll put them here if they're useful.
+       - https://www.youtube.com/watch?v=Lg8l7W0TuPg This video explains how to make a Joystick Gimbal - an important component
  - Part 2
     - Reading through the Reddit Forum for Diy Flightsticks : r/HotasDIY ... I should probably learn what a Hotas actually is...
 
