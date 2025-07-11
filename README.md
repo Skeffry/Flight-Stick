@@ -8,8 +8,11 @@ First step is finding out how Flightsticks actually work, primarily computer bas
  - Part 1
     - Watching Youtube videos and reading articles on the function of Flightsticks, as I watch them I'll put them here if they're useful.
        - https://www.youtube.com/watch?v=Lg8l7W0TuPg This video explains how to make a Joystick Gimbal - an important component
+       - https://www.instructables.com/DIY-Bluetooth-or-USB-HOTAS-Game-Controller/ This article is a tutorial for how to build a Flightstick which gives useful insights into the manufacturing
+       - https://www.youtube.com/watch?v=b-rc98z1Gxc I can't find a materials list, but this video shows how the triggers and buttons can be assembled
  - Part 2
     - Reading through the Reddit Forum for Diy Flightsticks : r/HotasDIY ... I should probably learn what a Hotas actually is...
+       - I've found now that a HOTAS stands for Hands On Throttle And Stick, as opposed to HOSAS, which means Hands On Stick And Stick, which uses two sticks for more axes 
 
 Step 2.
 Next, I need to consider the hardware I will need: likely including springs, maybe a gyro, definitely a joystick, and an arduino to convert the inputs from the joystick into usable inputs by my computer
