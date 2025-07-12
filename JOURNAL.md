@@ -8,9 +8,9 @@ This project was officially started (it's been a brainworm for like 3 months) on
 
 
 
-**Friday, 11/07/2025****
+**Friday, 11/07/2025**
 
-****Github Repository is set up, and research has begun.**
+**Github Repository is set up, and research has begun.**
 
 This day's focus was on getting the Github repo set up, and adding it to the Hackclub 'Highway to Hardware', then once I completed the repo, I begun working through the steps I laid out in the README. This meant I went through and researched how flightsticks work, which I did by watching videos and reading articles on how people have made their own DIY HOTAS setups. I also asked a question on the r/HotasDIY subreddit about tips on how to make my own flightstick. However, I mainly focused on the creation of **flightsticks**, so my next session I will focus on the manufacturing of the throttle systems.
 Here's a list of some things I found:
