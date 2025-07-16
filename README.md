@@ -25,6 +25,7 @@ Step 3.
 Now I need to move onto finding how to make the throttle lever, and I want to use references from an F-14 Tomcat, so the throttle can have the wing-fold lever, because that's cool :)
  - Part 1
     - Repeat steps 1 and 2 for the throttle lever system
+    - https://www.youtube.com/watch?v=3j6Wcr8nGGg&t=381s A really good video that shows the process of making the Flightstick and the throttle system 
   
 Step 4.
 I need to 3D model and prepare parts for the flightstick, so that I can obtain a grant for their production.
