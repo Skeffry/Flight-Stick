@@ -1,5 +1,5 @@
 # Flight-Stick
-Hopefully building an F-14 Flightstick that I can use with my computer... even tho I probably won't use it... Could be fun?
+Hopefully building a Flightstick that I can use with my computer... even tho I probably won't use it... Could be fun?
 
 _This Project is a part of Hackclub's YSWS 'Highway to Hardware'_
 
@@ -22,14 +22,14 @@ Next, I need to consider the hardware I will need: likely including springs, may
     - Ask questions on the r/HotasDIY subreddit, and hope I get solid answers
 
 Step 3.
-Now I need to move onto finding how to make the throttle lever, and since I'm using an F-14,  the throttle also needs to have the wing-fold lever, because that's cool :)
+Now I need to move onto finding how to make the throttle lever, and I want to use references from an F-14 Tomcat, so the throttle can have the wing-fold lever, because that's cool :)
  - Part 1
     - Repeat steps 1 and 2 for the throttle lever system
   
 Step 4.
 I need to 3D model and prepare parts for the flightstick, so that I can obtain a grant for their production.
  - Part 1
-    - Since I am attempting to make a replica Flightstick, I need to find reference imagery of the F-14's cockpit assembly, whilst I can probably eyeball it from images and scenes from 'Top Gun - Maverick' lol, it's generally a better idea to try and find engineering drawings with measurements.
+    - Since I am attempting to make a realistic Flightstick, I need to find reference imagery of the actual cockpit assemblies, whilst I can probably eyeball it from images, it's generally a better idea to try and find engineering drawings with measurements.
     - Due to an old attempt _unsuccessful_ to create a keypad, I have an understanding of how to use KiCad, so I will look into what kind of ports and arduino chips to use in the design of the controller.
  - Part 2
     - I've participated in the F1 in Schools competition multiple times, as the design engineer, so I have access, and the ability to use the free Student Edition of Autodesk's Fusion, I'll use this to do my creation phase of the design
