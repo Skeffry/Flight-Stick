@@ -1,4 +1,4 @@
-F-14 Tomcat Computer Flightstick and HOTAS
+Computer Flightstick and HOTAS
 
 Brought to you by Joel Harwood
 
