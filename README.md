@@ -22,7 +22,7 @@ Next, I need to consider the hardware I will need: likely including springs, may
     - Ask questions on the r/HotasDIY subreddit, and hope I get solid answers
 
 Step 3.
-Now I need to move onto finding how to make the throttle lever, and I want to use references from an F-14 Tomcat, so the throttle can have the wing-fold lever, because that's cool :)
+Now I need to move onto finding how to make the throttle lever, and I want to use references from an F-14 Tomcat, so the throttle can have the wing-fold lever, but I'll still kind of design my own, because that's cool :)
  - Part 1
     - Repeat steps 1 and 2 for the throttle lever system
     - https://www.youtube.com/watch?v=3j6Wcr8nGGg&t=381s A really good video that shows the process of making the Flightstick and the throttle system 
@@ -30,15 +30,15 @@ Now I need to move onto finding how to make the throttle lever, and I want to us
 Step 4.
 I need to 3D model and prepare parts for the flightstick, so that I can obtain a grant for their production.
  - Part 1
-    - Since I am attempting to make a realistic Flightstick, I need to find reference imagery of the actual cockpit assemblies, whilst I can probably eyeball it from images, it's generally a better idea to try and find engineering drawings with measurements.
+    - Since I am attempting to make a realistic Flightstick, I need to find reference imagery of the actual cockpit assemblies, from planes like the SU-57 which is a beautiful plane :), whilst I can probably eyeball it from images, it's generally a better idea to try and find engineering drawings with measurements.
     - Due to an old attempt _unsuccessful_ to create a keypad, I have an understanding of how to use KiCad, so I will look into what kind of ports and arduino chips to use in the design of the controller.
  - Part 2
     - I've participated in the F1 in Schools competition multiple times, as the design engineer, so I have access, and the ability to use the free Student Edition of Autodesk's Fusion, I'll use this to do my creation phase of the design
     - I'll use KiCad to design the controller for the Flightstick
 
 Step 5.
-Model a replica of the F-14 throttle section.
-    - Similar to some company-produced flightsticks that come with a throtte system, I will make the assembly able to be split into each part, and put an arduino in each segment, and have 2 inputs to my pc, which is harder to use, but easier to set up, or I can put a slave arduino in the throttle, and a master in the flightstick and connect them with one wire,         which is harder to set up, but easier to use
+Model a realistic-ish throttle section.
+    - Similar to some company-produced flightsticks that come with a throtte system, I will make the assembly able to be split into each part, and put an arduino in each segment, and have 2 inputs to my pc, which is harder to use, but easier to set up, or I can put a slave arduino in the throttle, and a master in        the flightstick and connect them with one wire, which is harder to set up, but easier to use
 
 Step 6. 
 Prototype using my 3D printer, and make changes.
